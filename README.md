@@ -1,7 +1,7 @@
 # Student-Management-System
 Student Management System  for Collage or University in Java.
 
-*<b>Note:</b>
+* <b>Note:</b>
    * Firstly Install Xampp or Wampp Server.
    * Create Database named 'stdmanagement' in 'localhost\phpmyadmin'.
    * Then import 'stdmanagement.sql' file in that database.
