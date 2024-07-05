@@ -136,11 +136,11 @@ The interfaces is GUI form of the application.
         
 ![16](https://github.com/PollobRay/Student-Management-System/assets/96225924/c9a5a756-f140-4948-b066-7eae35604115)
 
-   *<b>PDF File:</b>
+   * <b>PDF File:</b>
    
 ![17](https://github.com/PollobRay/Student-Management-System/assets/96225924/4b183645-8da7-47b7-9679-9e8c03d17a22)
 
-   *<b>Conclusion:</b>
+   * <b>Conclusion:</b>
       We have implemented our project using object oriented concepts of Java language. Our
       honorable course teacher helped us to implement the project. We have learned about built in
       methods of java and NETBEANS (IDE) tools
