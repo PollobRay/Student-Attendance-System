@@ -1,5 +1,5 @@
-# Student-Management-System
-Student Management System  for Collage or University in Java.
+# Student-Attendance-System
+Student Attendance System  for Collage or University in Java.
 
 * <b>Note:</b>
    * Firstly Install Xampp or Wampp Server.
@@ -7,7 +7,7 @@ Student Management System  for Collage or University in Java.
    * Then import 'stdmanagement.sql' file in that database.
    * Now run Jar File.
       
-* It is Student Management System for a Collage or University including Student Attendance System, CT Marks, and Others Reports.
+* It is Student Attendance System for a Collage or University including Student Attendance System, CT Marks, and Others Reports.
 * It is Semester Project.
 
 * Supervised By:
@@ -16,7 +16,7 @@ Student Management System  for Collage or University in Java.
 
 
 # Abstract
-This report outlines the contents of a minimal set of Student Management System software
+This report outlines the contents of a minimal set of Student Attendance System software
 development documents, tailored for use by students in software engineering projects, and firmly
 based on Java standards. The document set is designed to support software development activities. A
 supplementary report describes the content of each document in more detail. We would like to express
